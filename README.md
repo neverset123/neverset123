@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neverset123" alt="neverset123" /></a> </p>
 
-- 🔭 I’m currently working on **self driving car project**
+- 🔭 I’m currently working on **generative AI**
 
-- 👯 I’m looking to collaborate on **machine learn in AV and ADAS**
+- 👯 I’m looking to collaborate on **LLM project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
